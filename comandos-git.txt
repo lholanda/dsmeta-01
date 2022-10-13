@@ -1,4 +1,8 @@
 
+no diretorio
+
+cd c:\projetos\dsmeta
+
 # primeiro versionamento
 git init
 git add .
@@ -11,4 +15,10 @@ git push -u origin main
 # add / commit / push
 git add .
 git commit -m "up"
-git push -u origin main
+#git push -u origin main
+git push 
+
+
+Passo: Primeiro componente
+Projeto HTML/CSS: https://github.com/acenelio/dsmeta-css
+
